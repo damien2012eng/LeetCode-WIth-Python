@@ -6,6 +6,7 @@ class Solution(object):
         """
         #Main branch
         #Initialization
+        #Bugfix branch
         n = len(nums)
         if n == 0:
             return 0
